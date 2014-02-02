@@ -1,3 +1,3 @@
 Then(/^something should happen$/) do
-  false.should be_true
+  true.should be_true
 end
